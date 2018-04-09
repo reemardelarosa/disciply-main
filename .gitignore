@@ -1,5 +1,4 @@
 bower_components
 node_modules
 build
-aws-keys.json
 npm-debug.log
